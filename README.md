@@ -1,39 +1,32 @@
-# 💧 HydroTheme
+# HydroTheme
 
-**HydroTheme** is a beautiful hydration reminder app built with **Jetpack Compose**, supporting both **light and dark themes**. Designed with a clean UI and smooth theming transitions, it's perfect for developers exploring dynamic UI in modern Android apps.
+HydroTheme is a modern, elegant Android application designed to manage hydration habits with a sleek and user-friendly interface. The app includes a feature to toggle between **Light Mode** and **Dark Mode** to provide the best visual experience for users. The main goal of the app is to promote healthier habits by reminding users to stay hydrated throughout the day.
 
----
+## Features
 
-## ✨ Features
+- 🌞 **Light Mode** for brighter interface
+- 🌙 **Dark Mode** for a more relaxed viewing experience at night
+- Easy-to-use interface with toggle functionality for changing themes
+- Simple, intuitive design for managing hydration habits
 
-- 🌗 **Dynamic Light & Dark Mode Support**
-- 🎨 Modern **Material 3** theming
-- 💧 Focused on hydration tracking UI (theme-focused version)
-- 📱 Built entirely with **Jetpack Compose**
-- 📐 Custom fonts integration (Poppins)
+## Screenshots
 
----
+### 🌞 Light Mode
+![Light Mode](https://github.com/BeenishA1-Developer/HydroTheme/blob/main/LightMood.png)
 
-## 📸 Screenshots
+### 🌙 Dark Mode
+![Dark Mode](https://github.com/BeenishA1-Developer/HydroTheme/blob/main/DarkMood.png)
 
-*(Add screenshots here once you have them!)*
+## How to Run
 
----
+### Prerequisites
 
-## 🛠️ Built With
-
-- Kotlin
-- Jetpack Compose
-- Material 3 (M3)
 - Android Studio
-- Google Fonts Integration
+- JDK 11
+- Android SDK version 35 or higher
 
----
+### Steps to Run the App
 
-## 🚀 Getting Started
-
-To run this project locally:
-
-1. Clone the repository:
+1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/HydroTheme.git
+   git clone https://github.com/BeenishA1-Developer/HydroTheme.git
