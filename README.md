@@ -1,2 +1,1 @@
-# HydroTheme
-An Android water reminder app using Jetpack Compose and custom fonts.
+"A hydration tracking app with support for dark and light UI themes built using Jetpack Compose."
